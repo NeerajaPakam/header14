@@ -1,0 +1,24 @@
+.heading{
+    border: 3px solid rgba(225, 225, 11, 0.918);
+}
+.container{
+    height: 100vh;
+}
+.button{
+    border-radius: 18px !important;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.head{
+    font-size: 32px;
+    border: 2px solid rgb(96, 26, 131);
+}
+input{
+    width: 100%;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 4px;
+}
+.clr{
+    background-color: rgb(9, 9, 199);
+}
